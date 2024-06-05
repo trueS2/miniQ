@@ -12,7 +12,7 @@ public class Puppy extends Dog{
 
     @Override
     public void likefood() {
-        System.out.println(getName() + "의 최애 음식은 우유입니다.");
+        System.out.println(getName() + "트루의 최애 음식은 우유입니다.");
     }
 
     @Override
